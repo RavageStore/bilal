@@ -4,17 +4,5 @@
     "password": "1",
     "status": "owner",
     "limit": null
-  },
-  {
-    "username": "daffa",
-    "password": "2",
-    "status": "premium",
-    "limit": 30
-  },
-  {
-    "username": "daffa",
-    "password": "3",
-    "status": "free",
-    "limit": 1
   }
 ]
