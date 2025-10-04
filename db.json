@@ -4,11 +4,5 @@
     "password": "1",
     "status": "owner",
     "limit": null
-  },
-  {
-    "username": "alok",
-    "password": "1",
-    "status": "premium",
-    "limit": 1227272
   }
 ]
