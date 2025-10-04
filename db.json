@@ -4,5 +4,11 @@
     "password": "1",
     "status": "owner",
     "limit": null
+  },
+  {
+    "username": "anjat",
+    "password": "555",
+    "status": "free",
+    "limit": null
   }
 ]
