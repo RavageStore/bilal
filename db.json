@@ -2,16 +2,19 @@
   {
     "username": "daffa",
     "password": "1",
-    "status": "owner"
+    "status": "owner",
+    "limit": null
   },
   {
-    "username": "user1",
-    "password": "password1",
-    "status": "premium"
+    "username": "daffa",
+    "password": "2",
+    "status": "premium",
+    "limit": 30
   },
   {
-    "username": "user2",
-    "password": "password2",
-    "status": "free"
+    "username": "daffa",
+    "password": "3",
+    "status": "free",
+    "limit": 1
   }
 ]
