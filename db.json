@@ -1,0 +1,17 @@
+[
+  {
+    "username": "daffa",
+    "password": "1",
+    "status": "owner"
+  },
+  {
+    "username": "user1",
+    "password": "password1",
+    "status": "premium"
+  },
+  {
+    "username": "user2",
+    "password": "password2",
+    "status": "free"
+  }
+]
