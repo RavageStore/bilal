@@ -16,5 +16,11 @@
     "password": "3",
     "status": "free",
     "limit": 1
+  },
+  {
+    "username": "anjat",
+    "password": "1",
+    "status": "owner",
+    "limit": 1
   }
 ]
