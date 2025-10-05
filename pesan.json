@@ -3,7 +3,14 @@
     "nama": "bangke",
     "pesan": "bangke",
     "waktu": "October 5, 2025 at 10:45 PM",
-    "reply": [],
+    "reply": [
+      {
+        "nama": "daffa",
+        "pesan": "anjay",
+        "waktu": "October 5, 2025 at 10:51 PM",
+        "to": "bangke"
+      }
+    ],
     "likes": 0
   }
 ]
