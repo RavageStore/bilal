@@ -10,5 +10,11 @@
     "password": "555",
     "status": "free",
     "limit": null
+  },
+  {
+    "username": "pukimak",
+    "password": "1",
+    "status": "owner",
+    "limit": null
   }
 ]
