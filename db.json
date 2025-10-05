@@ -4,5 +4,11 @@
     "password": "1",
     "status": "owner",
     "limit": null
+  },
+  {
+    "username": "bilal",
+    "password": "1",
+    "status": "owner",
+    "limit": null
   }
 ]
