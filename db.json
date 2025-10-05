@@ -4,11 +4,5 @@
     "password": "1",
     "status": "owner",
     "limit": null
-  },
-  {
-    "username": "free",
-    "password": "1",
-    "status": "owner",
-    "limit": null
   }
 ]
