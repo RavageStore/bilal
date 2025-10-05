@@ -16,5 +16,11 @@
     "password": "1",
     "status": "free",
     "limit": null
+  },
+  {
+    "username": "da",
+    "password": "2",
+    "status": "premium",
+    "limit": 30
   }
 ]
