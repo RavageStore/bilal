@@ -10,5 +10,11 @@
     "password": "1",
     "status": "free",
     "limit": 1
+  },
+  {
+    "username": "premium",
+    "password": "1",
+    "status": "premium",
+    "limit": 30
   }
 ]
