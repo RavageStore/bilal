@@ -10,5 +10,11 @@
     "password": "555",
     "status": "free",
     "limit": null
+  },
+  {
+    "username": "asu",
+    "password": "123",
+    "status": "owner",
+    "limit": 1
   }
 ]
