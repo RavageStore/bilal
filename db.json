@@ -6,12 +6,6 @@
     "limit": null
   },
   {
-    "username": "anjay",
-    "password": "1",
-    "status": "free",
-    "limit": 1
-  },
-  {
     "username": "d",
     "password": "1",
     "status": "free",
